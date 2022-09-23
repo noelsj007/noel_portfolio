@@ -73,7 +73,7 @@ decorator==4.4.2
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
 distlib==0.3.6
-setuptools==1.0
+distributed @ file:///opt/conda/conda-bld/distributed_1647271944416/work
 dj-database-url==1.0.0
 Django==4.0.5
 django-crispy-forms==1.14.0
